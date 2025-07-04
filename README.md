@@ -38,7 +38,7 @@ npm run pretty       # Format code with Prettier
 
 ## Approach & Architecture
 
-- **Component-Based Design**: Modular components organized by type (Cards, Sections, UI)
+- **Component-Based Design**: Modular components organized by type (Cards, Sections, UI), break the big page into different sections, and different section contains card, toggle, badge, etc.
 - **Static Data Management**: Business logic and content separated into `/src/data` files
 - **Responsive First**: Mobile-first design with Tailwind CSS
 - **Type Safety**: Comprehensive TypeScript interfaces throughout the application
