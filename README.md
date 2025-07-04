@@ -67,5 +67,16 @@ npm run pretty       # Format code with Prettier
 - Docker
 
 ---
+## Screenshots demo:
+![image](https://github.com/user-attachments/assets/54f96149-faf4-481d-83b1-5bb525cadfb1)
+![image](https://github.com/user-attachments/assets/d3250bdf-dfa9-406c-9d5d-065d0f667317)
+![image](https://github.com/user-attachments/assets/5033990e-36b9-41b0-a96d-66ea2f6b0ecf)
+![image](https://github.com/user-attachments/assets/d8bf011a-db9b-4174-8613-e35289a6d190)
+![image](https://github.com/user-attachments/assets/6157dee9-d2c7-4ce8-b91e-e1bc3a9162c3)
+![image](https://github.com/user-attachments/assets/6f7176cc-871b-45cd-82db-eb40ef90802c)
+![image](https://github.com/user-attachments/assets/5d29b828-9860-4706-b87b-608948dac711)
+
+
+
 
 **Interview Assessment Project** 
