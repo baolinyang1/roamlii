@@ -69,6 +69,7 @@ npm run pretty       # Format code with Prettier
 ---
 ## Screenshots demo:
 ![image](https://github.com/user-attachments/assets/54f96149-faf4-481d-83b1-5bb525cadfb1)
+![image](https://github.com/user-attachments/assets/c7c8828d-0e3f-41b6-89bd-1174ad7d7a72)
 ![image](https://github.com/user-attachments/assets/d3250bdf-dfa9-406c-9d5d-065d0f667317)
 ![image](https://github.com/user-attachments/assets/5033990e-36b9-41b0-a96d-66ea2f6b0ecf)
 ![image](https://github.com/user-attachments/assets/d8bf011a-db9b-4174-8613-e35289a6d190)
